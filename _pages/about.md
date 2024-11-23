@@ -1,14 +1,16 @@
 ---
 permalink: /
-title: "Yan Pan|Quantitative Biology"
+title: "Yan Pan-Quantitative Biology"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+God does not play dice.
+
 # About Me
-=========
+
 Welcome to my little corner!
 
 My work centers on **aging medicine**, with a particular focus on the tiny but insightful **Caenorhabditis elegans**. These microscopic worms serve as valuable models for understanding the complex processes of aging and longevity. By studying their biology, we aim to uncover the fundamental mechanisms that drive aging.
