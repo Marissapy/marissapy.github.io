@@ -9,7 +9,7 @@ redirect_from:
 
 ## Introduction
 
-I am **Yan Pan (潘彦)**, an undergraduate student majoring in Clinical Medicine at the** University of Electronic Science and Technology of China (UESTC)**. Since 2022, I have been involved in research at the university’s **Center for Aging Research**, where I combine experimental and computational methods to study the biology of aging.
+I am **Yan Pan (潘彦)**, an undergraduate student majoring in Clinical Medicine at the **University of Electronic Science and Technology of China (UESTC)**. Since 2022, I have been involved in research at the university’s **Center for Aging Research**, where I combine experimental and computational methods to study the biology of aging.
 
 ## Research Focus
 
@@ -41,5 +41,6 @@ These experiences allowed me to explore diverse topics, such as:
 I value the integration of computational analysis and experimental validation in biological research. My approach emphasizes using data-driven methods to guide hypothesis generation and experimental design, particularly in the context of aging and environmental health.
 
 ## Looking Ahead
-I am currently seeking Ph.D. opportunities related to aging biology, computational biology, or translational medicine. I hope to contribute to a better understanding of the mechanisms underlying aging and to the development of effective interventions that promote long-term health.
+
+I am currently seeking Ph.D. opportunities related to aging biology/cell biology/computational biology. I hope to contribute to a better understanding of the mechanisms underlying aging and to the development of effective interventions that promote long-term health.
 ---
