@@ -13,14 +13,12 @@ I am **Yan Pan (潘彦)**, an undergraduate student majoring in Clinical Medicin
 
 ## Research Focus
 
-### Aging and *C. elegans* 
-
-My primary research interest lies in aging medicine, particularly in identifying compounds that influence healthspan and lifespan in model systems. I am interested in applying computational biology approaches to explore which natural or synthetic compounds may be beneficial or harmful to biological systems. While I have worked extensively with Caenorhabditis elegans, I view it as one of several useful model organisms—including cultured cells and other systems—for understanding the biological effects of candidate compounds. Beyond phenotypic screening, I am also interested in uncovering the underlying molecular mechanisms that mediate these effects.
+My primary research interest lies in** aging medicine**, particularly in identifying compounds that influence healthspan and lifespan in model systems. I am interested in applying **computational biology** approaches to explore which natural or synthetic compounds may be beneficial or harmful to biological systems. While I have worked extensively with _Caenorhabditis elegans_, I view it as one of several useful model organisms—including cultured cells and other systems—for understanding the biological effects of candidate compounds. Beyond phenotypic screening, I am also interested in uncovering the underlying **molecular mechanisms** that mediate these effects.
 
 ## Skills
 
 My research balances work in both the wet and dry lab:
-- **Wet lab (50%)**: Includes culturing C. elegans and mammalian cells, performing cellular and molecular biology experiments, and developing high-throughput pipelines for compound screening.
+- **Wet lab (50%)**: Includes culturing _C. elegans_ and mammalian cells, performing cellular and molecular biology experiments, and developing high-throughput pipelines for compound screening.
 - **Dry lab (50%)**: Focuses on **machine learning modeling**, **multi-omics data analysis**, **molecular dynamics simulations**, and **virtual screening** of bioactive molecules.
 
 ## Broader Research Experience
@@ -43,4 +41,5 @@ I value the integration of computational analysis and experimental validation in
 ## Looking Ahead
 
 I am currently seeking Ph.D. opportunities related to aging biology/cell biology/computational biology. I hope to contribute to a better understanding of the mechanisms underlying aging and to the development of effective interventions that promote long-term health.
+
 ---
