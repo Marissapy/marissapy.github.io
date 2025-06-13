@@ -11,6 +11,8 @@ redirect_from:
 
 I am **Yan Pan (潘彦)**, an undergraduate student majoring in Clinical Medicine at the **University of Electronic Science and Technology of China (UESTC)**. Since 2022, I have been involved in research at the university’s **Center for Aging Research** , where I combine experimental and computational methods to study the biology of aging.
 
+I’m currently building this website! I will be applying for MS/PhD programs for Fall 2027. If you're interested in my work, feel free to contact me at yanpan@zohomail.com.
+
 ## Research Focus
 
 My primary research interest lies in **aging medicine**, particularly in identifying compounds that influence healthspan and lifespan in model systems. I am interested in applying **computational biology** approaches to explore which natural or synthetic compounds may be beneficial or harmful to biological systems. While I have worked extensively with _Caenorhabditis elegans_, I view it as one of several useful model organisms—including cultured cells and other systems—for understanding the biological effects of candidate compounds. Beyond phenotypic screening, I am also interested in uncovering the underlying **molecular mechanisms** that mediate these effects.
