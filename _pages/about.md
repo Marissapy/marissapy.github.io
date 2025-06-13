@@ -13,7 +13,7 @@ I am **Yan Pan (潘彦)**, an undergraduate student majoring in Clinical Medicin
 
 ## Research Focus
 
-My primary research interest lies in** aging medicine**, particularly in identifying compounds that influence healthspan and lifespan in model systems. I am interested in applying **computational biology** approaches to explore which natural or synthetic compounds may be beneficial or harmful to biological systems. While I have worked extensively with _Caenorhabditis elegans_, I view it as one of several useful model organisms—including cultured cells and other systems—for understanding the biological effects of candidate compounds. Beyond phenotypic screening, I am also interested in uncovering the underlying **molecular mechanisms** that mediate these effects.
+My primary research interest lies in **aging medicine**, particularly in identifying compounds that influence healthspan and lifespan in model systems. I am interested in applying **computational biology** approaches to explore which natural or synthetic compounds may be beneficial or harmful to biological systems. While I have worked extensively with _Caenorhabditis elegans_, I view it as one of several useful model organisms—including cultured cells and other systems—for understanding the biological effects of candidate compounds. Beyond phenotypic screening, I am also interested in uncovering the underlying **molecular mechanisms** that mediate these effects.
 
 ## Skills
 
