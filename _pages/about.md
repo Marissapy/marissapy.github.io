@@ -9,7 +9,7 @@ redirect_from:
 
 ## Introduction
 
-I am **Yan Pan (潘彦)**, an undergraduate student majoring in Clinical Medicine at the **University of Electronic Science and Technology of China (UESTC)**. Since 2022, I have been involved in research at the university’s **Center for Aging Research**, where I combine experimental and computational methods to study the biology of aging.
+I am **Yan Pan (潘彦)**, an undergraduate student majoring in Clinical Medicine at the **University of Electronic Science and Technology of China (UESTC)**. Since 2022, I have been involved in research at the university’s **Center for Aging Research** , where I combine experimental and computational methods to study the biology of aging.
 
 ## Research Focus
 
