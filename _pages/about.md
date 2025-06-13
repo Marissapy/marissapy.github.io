@@ -34,9 +34,7 @@ These experiences allowed me to explore diverse topics, such as:
 - **Environmental toxicology**
 - **Computer vision applications** in biological image analysis
 
-## Research Approach
-
-I value the integration of computational analysis and experimental validation in biological research. My approach emphasizes using data-driven methods to guide hypothesis generation and experimental design, particularly in the context of aging and environmental health.
+I value the integration of computational analysis and experimental validation in biological research. My long-term academic goal is to uncover the **fundamental mechanisms driving human aging** and to identify effective interventions for its delay. I believe that computational biology provides a powerful lens to guide experimental design and hypothesis generation, making it a cornerstone of my research methodology.
 
 ## Looking Ahead
 
