@@ -1,30 +1,30 @@
 ---
-title: '参加国际毒理学大会ICTXVII的收获与感悟'
+title: 'Reflections on Attending ICTXVII International Congress of Toxicology'
 date: 2025-01-15
 permalink: /posts/2025/01/ictxvii-conference/
 tags:
-  - 会议
-  - 毒理学
-  - 学术交流
-  - 口头报告
+  - conference
+  - toxicology
+  - academic exchange
+  - oral presentation
 ---
 
-我很开心能够参加国际毒理学大会ICTXVII（ICT2025），这是一次非常有意义的学术经历。在这次大会上，我认识了很多优秀的学者和同行，也获得了宝贵的学习和交流机会。
+I was delighted to attend the ICTXVII International Congress of Toxicology (ICT2025), which was an incredibly meaningful academic experience. At this conference, I met many outstanding scholars and peers, and gained valuable learning and networking opportunities.
 
-## 我的口头报告
+## My Oral Presentation
 
-在这次大会上，我有幸发表了一个口头报告，题目是"Safety by Design for Anti-aging Peptides De Novo Design"（抗衰老肽从头设计的安全设计）。这个报告展示了我最近在抗衰老肽设计方面的研究工作，特别是如何将安全考虑融入到肽的从头设计过程中。
+At this conference, I had the privilege of delivering an oral presentation titled "Safety by Design for Anti-aging Peptides De Novo Design." This presentation showcased my recent research work in anti-aging peptide design, particularly how to integrate safety considerations into the de novo design process of peptides.
 
-通过这次报告，我不仅分享了自己的研究成果，也收到了来自不同领域专家的宝贵建议和反馈，这些意见对我后续的研究工作具有重要的指导意义。
+Through this presentation, I not only shared my research findings but also received valuable suggestions and feedback from experts in different fields. These insights will be of great significance for guiding my future research work.
 
-## 学术交流与收获
+## Academic Exchange and Insights
 
-作为毒理学领域的新人，这次大会让我深刻感受到了这个领域的广阔前景和无限可能。我认识了很多资深的教授和博士生同学，他们的研究思路和方法都给了我很大的启发。
+As a newcomer to the field of toxicology, this conference gave me a deep appreciation for the broad prospects and infinite possibilities of this field. I met many senior professors and PhD students whose research approaches and methodologies provided me with great inspiration.
 
-通过与不同研究背景的学者交流，我了解到毒理学研究的最新发展趋势，也看到了计算毒理学、分子毒理学等新兴交叉领域的发展潜力。这些交流不仅拓宽了我的学术视野，也为我未来的研究方向提供了新的思路。
+Through exchanges with scholars from different research backgrounds, I learned about the latest development trends in toxicology research and saw the potential of emerging interdisciplinary fields such as computational toxicology and molecular toxicology. These exchanges not only broadened my academic horizons but also provided new ideas for my future research directions.
 
-## 对毒理学领域的展望
+## Vision for the Field of Toxicology
 
-我希望毒理学这个领域能够越来越好，为人类健康和环境保护做出更大的贡献。随着人工智能、大数据等技术的发展，我相信毒理学研究将迎来新的发展机遇，能够更精准地评估化学物质的安全性，为制定更科学的监管政策提供支持。
+I hope that the field of toxicology will continue to improve and make greater contributions to human health and environmental protection. With the development of technologies such as artificial intelligence and big data, I believe that toxicology research will usher in new development opportunities, enabling more precise assessment of chemical safety and providing support for formulating more scientific regulatory policies.
 
-通过这次大会，我更加坚定了在毒理学领域深耕的决心，也期待未来能够与更多的同行合作，共同推动这个领域的发展。
+Through this conference, I have become more determined to deepen my commitment to the field of toxicology, and I look forward to collaborating with more peers in the future to jointly promote the development of this field.
