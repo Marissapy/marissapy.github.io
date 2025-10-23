@@ -9,7 +9,7 @@ venue: 'Ecotoxicology and Environmental Safety'
 volume: '303'
 pages: '118834'
 publisher: 'Academic Press'
-slidesurl: 'http://academicpages.github.io/files/diphenylpropane.pdf'
+slidesurl: 'https://marissapy.github.io/files/diphenylpropane.pdf'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0147651325011790'
 citation: 'Pan Y, Cai H, Ran Y, Qiu H, Huang Z, Wu D, Zhang W, Zhang N, Cheng L, Long J, Gao S, Qiu X, Li G, Xian B. Revealing 1, 3-diphenylpropane's coagulation toxicity via infomaxnet-based network toxicology and molecular simulations. Ecotoxicology and Environmental Safety. 2025 Sep 15;303:118834.'
 ---
