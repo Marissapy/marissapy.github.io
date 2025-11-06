@@ -1,6 +1,6 @@
 ---
 title: 'iGEM2026 Ambassador Application'
-date: 2025-01-20
+date: 2025-11-06
 permalink: /posts/2025/01/igem-ambassador-application/
 tags:
   - iGEM

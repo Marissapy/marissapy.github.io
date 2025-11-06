@@ -61,10 +61,3 @@ I believe that the integration of computational toxicology, machine learning, an
 
 Furthermore, the policy development process needs to become more interdisciplinary, involving not only toxicologists and regulators but also synthetic biologists, ethicists, and stakeholders from various sectors. This collaborative approach can help create policies that are both scientifically sound and practically implementable, ensuring that the benefits of synthetic biology can be realized while minimizing potential risks.
 
-The conference reinforced my conviction that the future of toxicology lies in its ability to adapt to and guide emerging technologies. As we continue to push the boundaries of what is possible in synthetic biology, we must simultaneously strengthen our capacity to assess and manage the associated risks, creating a framework that supports innovation while protecting human health and the environment.
-
-## Vision for the Field of Toxicology
-
-I hope that the field of toxicology will continue to improve and make greater contributions to human health and environmental protection. With the development of technologies such as artificial intelligence and big data, I believe that toxicology research will usher in new development opportunities, enabling more precise assessment of chemical safety and providing support for formulating more scientific regulatory policies.
-
-Through this conference, I have become more determined to deepen my commitment to the field of toxicology, and I look forward to collaborating with more peers in the future to jointly promote the development of this field.
