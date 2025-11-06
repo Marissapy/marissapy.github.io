@@ -9,6 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
+## Download CV
+
+You can download my CV in the following formats:
+
+- [English CV (PDF)](/files/CV_PY.pdf)
+- [中文简历 (PDF)](/files/CV_Chinese.pdf)
+
+---
+
 Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
