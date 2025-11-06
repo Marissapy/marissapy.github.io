@@ -45,6 +45,6 @@ I value the integration of computational analysis and experimental validation in
 
 ## Looking Ahead
 
-I am currently seeking opportunities in **synthetic biology**, **toxicology**, and **computational biology**. I hope to contribute to the development of safe and effective synthetic biology products, and to advance our understanding of how computational approaches can guide the design and assessment of synthetic biology applications.
+I am currently seeking Ph.D. opportunities related to aging biology/cell biology/computational biology. I hope to contribute to a better understanding of the mechanisms underlying aging and to the development of effective interventions that promote long-term health.
 
 ---
