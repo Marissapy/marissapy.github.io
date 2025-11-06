@@ -14,6 +14,8 @@ tags:
   Your browser does not support the video tag.
 </video>
 
+I am deeply passionate about becoming an iGEM 2026 Ambassador. As I approach my fourth year as an iGEMer, synthetic biology has become more than just a field of study—it has become my calling. The iGEM community has shaped my academic journey, inspired my research, and connected me with brilliant minds from around the world. I am genuinely excited about the opportunity to give back to this community that has given me so much, and to help expand the reach of synthetic biology, especially in regions that have been historically underrepresented.
+
 ## 1. What are the main barriers for people in your region to engage with the iGEM Community and the topic of synthetic biology?
 
 I come from the southwest region of China, which accounts for nearly one-fourth of the country's land area. However, only a few top-tier universities in this region have the chance to engage in the iGEM competition or build active synthetic biology teams.
@@ -57,3 +59,7 @@ To attract attention from industries and local governments, I plan to integrate 
 Through these actions, I hope to demonstrate that synthetic biology is not only a research field but also a tool for regional transformation and sustainable growth.
 
 Ultimately, my goal is to make the iGEM community in Western China more visible, interconnected, and impactful — empowering young scientists to innovate locally and collaborate globally.
+
+---
+
+I am truly honored to be considered for the iGEM 2026 Ambassador position. My four years as an iGEMer have been transformative, and my passion for synthetic biology continues to grow with each project, each collaboration, and each discovery. I believe that synthetic biology has the power to address some of humanity's greatest challenges, and I am committed to making this field more accessible, inclusive, and impactful. If selected, I will dedicate myself wholeheartedly to serving the iGEM community and advancing the mission of making biology easier to engineer. Thank you for considering my application.
