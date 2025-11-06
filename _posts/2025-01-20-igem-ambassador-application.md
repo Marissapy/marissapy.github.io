@@ -62,4 +62,6 @@ Ultimately, my goal is to make the iGEM community in Western China more visible,
 
 ---
 
-I am truly honored to be considered for the iGEM 2026 Ambassador position. My four years as an iGEMer have been transformative, and my passion for synthetic biology continues to grow with each project, each collaboration, and each discovery. I believe that synthetic biology has the power to address some of humanity's greatest challenges, and I am committed to making this field more accessible, inclusive, and impactful. If selected, I will dedicate myself wholeheartedly to serving the iGEM community and advancing the mission of making biology easier to engineer. Thank you for considering my application.
+I am truly honored to be considered for the iGEM 2026 Ambassador position. I believe that synthetic biology has the power to address some of humanity's greatest challenges, and I am committed to making this field more accessible, inclusive, and impactful. If selected, I will dedicate myself wholeheartedly to serving the iGEM community and advancing the mission of making biology easier to engineer. 
+
+Thank you for considering my application.
