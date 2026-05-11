@@ -11,6 +11,8 @@ redirect_from:
 
 I am **Yan Pan (潘彦)**, an undergraduate student majoring in Clinical Medicine at the **University of Electronic Science and Technology of China (UESTC)**. Since 2022, I have been involved in research at the university's **Center for Aging Research**, where I combine experimental and computational methods to study the biology of aging. My work spans **synthetic biology**, **toxicology**, and **computational biology**, with a focus on developing safe and effective synthetic biology products.
 
+I am also an **iGEM Competition 2026 Ambassador for the Asia-Pacific region**. I am excited to help more people across the Asia-Pacific region enter the synthetic biology community and engage with the iGEM Competition.
+
 I'm currently building this website! I will be applying for MS/PhD programs for Fall 2027. If you're interested in my work, feel free to contact me at yanpan@zohomail.com.
 
 ## Research Focus
